@@ -9,31 +9,33 @@ footer {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding: 1rem;
-    margin: 2rem 0 0 0;
+    padding: 0.5rem;
+    margin: 1.2rem 0 0 0;
     background-color: #9d0208;
-    width: 100%;
-    max-width: 100%;
-    color: #001427;
+    color: #f57f7f;
+    width: 100vw;     
+    max-width: 100vw;
+    border-top: #f57f7f solid 1px;
 }
 
+
 footer i {
-    font-size: 1.2rem;
-    color: #001427;
+    font-size: 1rem;
+    color: #f57f7f;
     margin: 0 1rem 1rem 0;
 }
 
 footer p {
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 footer p i {
-    font-size: 1.2rem;
-    color: #001427;
+    font-size: 1rem;
+    color: #f57f7f;
     margin: 0 1rem 0 1rem;
 }
 
 footer p i:hover,
 footer a i:hover {
-    color: #708d81;
+    color: #0c0b64;
 }
