@@ -1,6 +1,6 @@
 # 🕷️ Carrossel da Viúva Negra
 
-![Carrossel Viúva Negra](assets/gif/viuva-carousel.gif)
+![Carrossel Viúva Negra](./assets/img/Carrossel%20Viúva%20Negra.gif)
 
 Um carrossel inovador inspirado na **Viúva Negra**, com efeito 3D, reflexo nas imagens, hover interativo e autoplay infinito. Ideal para portfólio de front-end e projetos visuais modernos.  
 
@@ -8,15 +8,10 @@ Um carrossel inovador inspirado na **Viúva Negra**, com efeito 3D, reflexo nas 
 
 ## 🔥 Funcionalidades
 
-- **Autoplay infinito:** slides mudam automaticamente.  
-- **Slide central destacado:** maior, com efeito de glow e hover interativo.  
+- **Autoplay infinito:** slides mudam automaticamente.   
 - **Reflexo abaixo das imagens:** efeito realista e elegante.  
 - **Responsivo:** funciona em desktop e mobile.  
-- **Interatividade:** clique em qualquer slide para centralizar.  
-
----
-
-![Carrossel Viúva Negra](assets/img/viuva-carousel.png)
+ 
 
 ---
 
@@ -32,6 +27,12 @@ hulk-carousel/<br>
 ├── style.css # CSS do carrossel<br>
 └── main.js # JS do carrossel<br>
 
+
+---
+
+# Demonstração
+
+![Carrossel Viúva Negra](assets/img/viuva-carousel.png)
 ---
 
 ## 🚀 Tecnologias
